@@ -23,3 +23,6 @@ Welcome to **PetStore** — a sleek and modern web app for exploring adorable pe
 | Vite           | Fast build tool              |
 
 ---
+## 🌐 Live Preview
+Check out the live version here:
+🔗 https://petstore-seven.vercel.app
